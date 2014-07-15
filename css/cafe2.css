@@ -1,0 +1,261 @@
+/* COLOR CSS FILE */
+
+a{
+	color: #94b6d2;
+}
+
+a:hover{
+	color: #8f5445;
+}
+
+/* Header */
+.header .navbar-default{
+	border-top: 3px solid #8f5445;
+}
+
+.header .navbar-default .navbar-brand span.logo{
+	background: #94b6d2;
+}
+
+.header .navbar-default .navbar-brand .logo i{
+	color: #643a30;
+}
+
+.header .navbar-default .navbar-nav > li a:hover{
+	color: #94b6d2;
+}
+
+.header .navbar-default .navbar-nav > li a span{
+	color: #94b6d2;
+}
+
+.header .navbar-default  .navbar-nav > .dropdown .dropdown-menu {
+	background: #94b6d2;
+}
+
+.header .navbar-default  .navbar-nav > .dropdown .dropdown-menu:after {
+	border-bottom-color: #94b6d2;
+}
+
+.header .navbar-default  .navbar-nav > li.open ul li a{
+	background: #94b6d2;
+}
+
+.header .navbar-default  .navbar-nav > li.dropdown ul li a:hover{
+	background: #8f5445;
+}
+
+/* Banner */
+
+.slide-banner .carousel .car-control{
+	background: #94b6d2;
+}
+
+.slide-banner .bxslider-content .bx-viewport  {
+	background: #94b6d2;
+}
+
+.slide-banner .flexslider .slides li .flex-two h3{
+	background: #94b6d2;
+}
+
+/* Hero */
+
+.hero .hero-logo{
+	background: #94b6d2;
+}
+
+/* Default Heading's Icon */
+.container .heading hr{
+	border-top:5px solid #94b6d2;
+}
+
+/* Feature Item */
+
+.feature .feature-item a:hover span.f-item-title{
+	color: #94b6d2;
+}
+
+/* Author */
+
+.author{
+	background: #94b6d2;
+}
+
+/* portfolio */
+
+.portfolio-item .p-img-container .pf-caption span.title{
+	background: #94b6d2;
+}
+
+/* Model */
+
+.model{
+	background: #94b6d2 url('../img/lblue-back2.png') repeat;
+}
+
+/* Service */
+
+.service .service-item .service-details{
+	background: #94b6d2;
+}
+
+.service .service-item .service-details:after{
+	border-bottom-color: #94b6d2;
+}
+
+/* Company */
+
+.company .company-content .company-content-item h6{
+	background: #94b6d2;
+}
+
+
+/* Product */
+
+.product .product-content ul > li.active > a{
+	background: #94b6d2;
+	color: #fff;
+}
+
+.product .product-content .tab-area li a:hover{
+	background: #94b6d2;
+	color: #fff;
+}
+
+.product .product-content .tab-area a .product-title i{
+	background: #94b6d2;
+}
+
+.product .product-content .tab-area  li > a:hover .product-title i{
+	background: #fff;
+	color: #8f5445;
+}
+
+.product .product-content ul > li.active > a:after {
+	border-left-color: #8f5445;
+}
+
+.product .product-content .tab-area  li.active > a .product-title i{
+	color: #8f5445;
+}
+
+/* Testimonial */
+
+
+.testimonial .carousel .c-control{
+	background: #94b6d2;
+}
+
+
+/* About Us */
+
+.about .about-skill .about-quote span.quote{
+	color: #94b6d2;
+}
+
+/* CTA */
+
+/* Pricing */
+
+/* Contact */
+
+.contact .contact-container .contact-widget i.c-icon{
+	color: #94b6d2;
+}
+
+.contact .contact-item{
+	background: #94b6d2;
+}
+
+
+/* Blog */
+
+.blog .blog-content .blog-post .blog-post-img span.date{
+	background: #94b6d2;
+}
+
+/* MOdel Two */
+
+.model-two .m-two-icon{
+	background: #94b6d2;
+}
+
+
+/***************  INNER PAGE CSS START ***************/
+
+/* Inner Banner */
+
+.inner-page-banner hr{
+	border-top:5px solid #8f5445;
+}
+
+/* Inner About Us */
+
+.inner-page .aboutus .inner-experience{
+	background: #94b6d2;
+}
+
+/* Inner Product */
+
+.inner-product .carousel .carousel-control span{
+	background: #8f5445;	
+}	
+
+/* Inner blog */
+ 
+.paging span, .paging a {
+	border:1px solid #8f5445;
+}
+
+.paging a:hover{
+	background: #8f5445;
+}
+ 
+.paging .current{
+	background: #94b6d2;
+}
+
+.inner-blog .inner-sidebar .side-widget h4{
+	background: #94b6d2;
+}
+
+/* Inner FAQ */
+
+.inner-faq .panel-default > .panel-heading{
+	background: #94b6d2;
+}
+
+/* Inner Page Coming Soon */
+
+.inner-csoon h3 span{
+	color: #94b6d2;
+}
+
+/* Inner Page 404 Error */
+
+.inner-error h3 span{
+	color: #94b6d2;
+}
+
+/***************  INNER PAGE CSS END ***************/
+/***/
+
+.inner-page-banner.shadow h3{
+	background: #94b6d2;
+}
+
+.grid  .grid-entry .entry-info .share span a i{
+	color: #94b6d2;
+}
+
+.grid  .grid-entry .entry-info .share span a:hover i{
+	color: #8f5445;
+}
+
+/***/
+
+/* Back to top */
+.scroll-to-top {
+	background: #94b6d2; 
+}

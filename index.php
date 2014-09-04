@@ -40,7 +40,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> Nove trilhas repletas de interatividade e tecnologia Java
+								data-captionhidden="off"><i class="fa fa-check"></i> Nove macro temas repletas de interatividade e tecnologia Java
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
@@ -238,7 +238,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">Trazendo a Tecnologia Java para o Coração do Brasil.
+								data-captionhidden="off">Trazendo a Tecnologia Java para o Coração do Brasileiro.
 							</div>
 						</li>
 					</ul>

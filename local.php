@@ -21,7 +21,7 @@
 						<!-- Contact Item -->
 						<div class="contact-item">
 							<!-- Paragraph -->
-							<p><i class="fa fa-map-marker c-icon"></i> Rua Martiniano de Carvalho, 851 - São Paulo - SP</p>
+							<p><i class="fa fa-map-marker c-icon"></i>Telefônica, Rua Martiniano de Carvalho, 851 - São Paulo - SP</p>
 						</div>
 					</div>
 				</div>

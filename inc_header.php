@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="iso-8859-1" >
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 		
         <title>Café Brasil</title>
 		

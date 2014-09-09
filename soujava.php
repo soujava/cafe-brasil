@@ -1,4 +1,4 @@
-<?php include  "inc_header.php"; ?>
+Ôªø<?php include  "inc_header.php"; ?>
 
 
 			<!-- Inner Page Content Start -->
@@ -13,15 +13,15 @@
 							<!-- Entry is the one post for each user -->
 							<div class="entry">
 								<!-- Heading of the  post -->
-								<h3>SOUJava - Sociedade de Usu·rios Java</h3>
+								<h3>SOUJava - Sociedade de Usu√°rios Java</h3>
 								
 								<!-- Post Images -->
 								<div class="blog-img">
 									<img src="img/soujava02.jpg" class="img-responsive img-thumbnail" alt="" />
 								</div>
 								<!-- Para -->
-								<p>A Sociedade de Usu·rios Java ñ <strong>SOUJava</strong> ñ È um grupo brasileiro formado por usu·rios e entusiastas da tecnologia Java, que tem como objetivo o fortalecimento, a expans„o, e a profissionalizaÁ„o do uso da tecnologia no Brasil. Sendo um dos mais importantes grupos de usu·rios Java do mundo, o SOUJava congrega uma comunidade ativa e disseminada por todo o territÛrio nacional.</p>
-								<p>Fundado por um grupo de veteranos da tecnologia Java, e contando com alguns dos membros mais ativos da comunidade Java brasileira, o SOUJava almeja fortalecer o uso da tecnologia no Brasil atravÈs da aproximaÁ„o de seus membros, incentivo ‡ participaÁ„o, e da difus„o de informaÁıes de alta qualidade para todos os profissionais Java. O SOUJava atinge estes objetivos ao realizar eventos e reuniıes periÛdicas, marcando assim uma forte presenÁa na Internet brasileira. AlÈm disso, o SOUJava participa ativamente do desenvolvimento da plataforma Java, pois È membro do JCP, e marca a sua presenÁa em projetos e iniciativas como o Adote uma JSR e OpenJDK. TambÈm conta com participantes ativos em Expert Groups de JSRs (como exemplo temos a JSR 310, uma nova API para tratamento de datas do Java) e com participantes ativos na definiÁ„o dos prÛximos passos das plataformas Java EE 8 e Java SE 9.</p>
+								<p>A Sociedade de Usu√°rios Java ‚Äì <strong>SOUJava</strong> ‚Äì √© um grupo brasileiro formado por usu√°rios e entusiastas da tecnologia Java, que tem como objetivo o fortalecimento, a expans√£o, e a profissionaliza√ß√£o do uso da tecnologia no Brasil. Sendo um dos mais importantes grupos de usu√°rios Java do mundo, o SOUJava congrega uma comunidade ativa e disseminada por todo o territ√≥rio nacional.</p>
+								<p>Fundado por um grupo de veteranos da tecnologia Java, e contando com alguns dos membros mais ativos da comunidade Java brasileira, o SOUJava almeja fortalecer o uso da tecnologia no Brasil atrav√©s da aproxima√ß√£o de seus membros, incentivo √† participa√ß√£o, e da difus√£o de informa√ß√µes de alta qualidade para todos os profissionais Java. O SOUJava atinge estes objetivos ao realizar eventos e reuni√µes peri√≥dicas, marcando assim uma forte presen√ßa na Internet brasileira. Al√©m disso, o SOUJava participa ativamente do desenvolvimento da plataforma Java, pois √© membro do JCP, e marca a sua presen√ßa em projetos e iniciativas como o Adote uma JSR e OpenJDK. Tamb√©m conta com participantes ativos em Expert Groups de JSRs (como exemplo temos a JSR 310, uma nova API para tratamento de datas do Java) e com participantes ativos na defini√ß√£o dos pr√≥ximos passos das plataformas Java EE 8 e Java SE 9.</p>
 							</div>
 							
 							<div class="clearfix"></div>

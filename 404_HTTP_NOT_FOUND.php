@@ -1,4 +1,4 @@
-<?php include("inc_header.php"); ?>
+﻿<?php include("inc_header.php"); ?>
 <?php include("inc_lang_detect.php"); ?>
 
 				<!-- Inner Page 4404 Error -->

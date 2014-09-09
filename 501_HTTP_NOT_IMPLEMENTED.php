@@ -1,4 +1,4 @@
-<?php include("__header.php"); ?>
+﻿<?php include("__header.php"); ?>
 <?php include("__lang_detect.php"); ?>
 
 	<section id="inner-headline">

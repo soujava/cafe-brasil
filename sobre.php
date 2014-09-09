@@ -1,4 +1,4 @@
-<?php include  "inc_header.php"; ?>
+Ôªø<?php include  "inc_header.php"; ?>
 
 
 			<!-- Inner Page Content Start -->
@@ -13,9 +13,9 @@
 						<h3>Sobre o Evento</h3>
 						<hr />
 						<!-- Paragraph -->
-						<p>O incremento na complexidade dos sistemas atuais tem gerado uma tendÍncia na uni„o de diversas tecnologias para o desenvolvimento de soluÁıes, tais como: NoSQL, Spring, SOA, e Cloud; que isoladamente apresentam vantagens especÌficas para determinados contextos, porÈm, quando integradas, possibilitam resultados mais robustos e eficientes. O problema È que para se obter os melhores resultados com esta abordagem, È necess·rio ter o conhecimento das diversas opÁıes oferecidas.</p>
-						<p>Devido ao surgimento de novas ferramentas e tecnologias em curtos intervalos de tempo, a disponibilidade de treinamentos È escassa. AtÈ mesmo o ambiente acadÍmico tem apresentado dificuldades para acompanhar o dinamismo do mercado. S„o poucas as Universidades que oferecem uma vis„o pr·tica daquilo que est· na vanguarda e possui aplicaÁ„o pr·tica.</p>
-						<p>Com base neste cen·rio, o SOUJava promove mais uma ediÁ„o do encontro com intuito de fomentar diversas tecnologias baseadas na Java Virtual Machine (JVM).</p>
+						<p>O incremento na complexidade dos sistemas atuais tem gerado uma tend√™ncia na uni√£o de diversas tecnologias para o desenvolvimento de solu√ß√µes, tais como: NoSQL, Spring, SOA, e Cloud; que isoladamente apresentam vantagens espec√≠ficas para determinados contextos, por√©m, quando integradas, possibilitam resultados mais robustos e eficientes. O problema √© que para se obter os melhores resultados com esta abordagem, √© necess√°rio ter o conhecimento das diversas op√ß√µes oferecidas.</p>
+						<p>Devido ao surgimento de novas ferramentas e tecnologias em curtos intervalos de tempo, a disponibilidade de treinamentos √© escassa. At√© mesmo o ambiente acad√™mico tem apresentado dificuldades para acompanhar o dinamismo do mercado. S√£o poucas as Universidades que oferecem uma vis√£o pr√°tica daquilo que est√° na vanguarda e possui aplica√ß√£o pr√°tica.</p>
+						<p>Com base neste cen√°rio, o SOUJava promove mais uma edi√ß√£o do encontro com intuito de fomentar diversas tecnologias baseadas na Java Virtual Machine (JVM).</p>
 					</div>
 				</div>
 				

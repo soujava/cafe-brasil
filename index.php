@@ -1,4 +1,4 @@
-<?php include  "inc_header.php"; ?>
+ï»¿<?php include  "inc_header.php"; ?>
 			<!-- Slider Container Start -->
 			<div class="banner-container">
 				<!-- Slider banner -->
@@ -30,7 +30,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">TRÊS DIAS DE EVENTO
+								data-captionhidden="off">TRÃŠS DIAS DE EVENTO
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
@@ -60,7 +60,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> Em São Paulo
+								data-captionhidden="off"><i class="fa fa-check"></i> Em SÃ£o Paulo
 							</div>
 						</li>
 						<!-- SLIDE NR. 2 -->
@@ -227,7 +227,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">CAFÉ BRASIL
+								data-captionhidden="off">CAFÃ‰ BRASIL
 							</div>
 							<!-- LAYERS NR. 5 // Slide Paragraph -->
 							<div class="tp-caption lfr medium_text slide-three paragraph"
@@ -238,7 +238,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">Trazendo a Tecnologia Java para o Coração do Brasileiro.
+								data-captionhidden="off">Trazendo a Tecnologia Java para o CoraÃ§Ã£o do Brasileiro.
 							</div>
 						</li>
 					</ul>
@@ -317,7 +317,7 @@
 								<!-- Service Details -->
 								<div class="service-details">
 									<!-- Paragraph -->
-									<p>O SOUJava espera reunir 800 participantes em três dias de evento</p>
+									<p>O SOUJava espera reunir 800 participantes em trÃªs dias de evento</p>
 								</div>
 							</div>
 						</div>
@@ -331,7 +331,7 @@
 								<!-- Service Details -->
 								<div class="service-details">
 									<!-- Paragraph -->
-									<p>Submissão de Palestras para o Café Brasil 2014 São Paulo</p>
+									<p>SubmissÃ£o de Palestras para o CafÃ© Brasil 2014 SÃ£o Paulo</p>
 								</div>
 							</div>
 						</div>
@@ -345,7 +345,7 @@
 								<!-- Service Details -->
 								<div class="service-details">
 									<!-- Paragraph -->
-									<p>Mais informações sobre a data e o local do evento</p>
+									<p>Mais informaÃ§Ãµes sobre a data e o local do evento</p>
 								</div>
 							</div>
 						</div>

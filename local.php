@@ -1,4 +1,4 @@
-<?php include  "inc_header.php"; ?>
+ï»¿<?php include  "inc_header.php"; ?>
 
 
 			<!-- Inner Page Content Start -->
@@ -21,7 +21,7 @@
 						<!-- Contact Item -->
 						<div class="contact-item">
 							<!-- Paragraph -->
-							<p><i class="fa fa-map-marker c-icon"></i>Telefônica, Rua Martiniano de Carvalho, 851 - São Paulo - SP</p>
+							<p><i class="fa fa-map-marker c-icon"></i>TelefÃ´nica, Rua Martiniano de Carvalho, 851 - SÃ£o Paulo - SP</p>
 						</div>
 					</div>
 				</div>

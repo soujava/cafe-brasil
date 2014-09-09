@@ -1,0 +1,47 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /cb/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /cb/index.php [L]
+
+RewriteRule ^([A-Za-z0-9-]+)?$    /cb/$1.php    [NC,L]
+
+</IfModule>
+# END WordPress
+
+
+ErrorDocument 400 /cb/400_HTTP_BAD_REQUEST.php
+ErrorDocument 401 /cb/401_HTTP_UNAUTHORIZED.php
+ErrorDocument 403 /cb/403_HTTP_FORBIDDEN.php
+ErrorDocument 404 /cb/404_HTTP_NOT_FOUND.php
+ErrorDocument 405 /cb/405_HTTP_METHOD_NOT_ALLOWED.php
+ErrorDocument 408 /cb/408_HTTP_REQUEST_TIME_OUT.php
+ErrorDocument 410 /cb/410_HTTP_GONE.php
+ErrorDocument 411 /cb/411_HTTP_LENGTH_REQUIRED.php
+ErrorDocument 412 /cb/412_HTTP_PRECONDITION_FAILED.php
+ErrorDocument 413 /cb/413_HTTP_REQUEST_ENTITY_TOO_LARGE.php
+ErrorDocument 414 /cb/414_HTTP_REQUEST_URI_TOO_LARGE.php
+ErrorDocument 415 /cb/415_HTTP_UNSUPPORTED_MEDIA_TYPE.php
+ErrorDocument 500 /cb/500_HTTP_INTERNAL_SERVER_ERROR.php
+ErrorDocument 501 /cb/501_HTTP_NOT_IMPLEMENTED.php
+ErrorDocument 502 /cb/502_HTTP_BAD_GATEWAY.php
+ErrorDocument 503 /cb/503_HTTP_SERVICE_UNAVAILABLE.php
+ErrorDocument 506 /cb/506_HTTP_VARIANT_ALSO_VARIES.php
+
+
+
+
+
+# BEGIN WordPress
+# <IfModule mod_rewrite.c>
+# RewriteEngine On
+# RewriteBase /wp-dfdx/
+# RewriteRule ^index\.php$ - [L]
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule . /wp-dfdx/index.php [L]
+# </IfModule>
+# END WordPress

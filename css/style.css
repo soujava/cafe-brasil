@@ -1027,6 +1027,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f3f3', end
 	color: #efefef;
 }
 
+.adjust_header{
+    left:150px;
+    font-size: 11px;
+}
+
 
 /* Feature */
 
@@ -4642,3 +4647,4 @@ div.ppt {
 		margin-bottom: -12px;
 	}
 }
+

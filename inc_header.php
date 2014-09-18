@@ -70,13 +70,12 @@
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Informações<span class="fa fa-angle-down"></span></a>
 					<ul class="dropdown-menu" role="menu">
 					<li><a href="sobre">Sobre o evento</a></li>
-					<li><a href="soujava">SouJava</a></li>
+					<li><a href="soujava">Sobre SouJava</a></li>
+					<li><a href="programa">Programa</a></li>
 					<li><a href="local">Local</a></li>
                                 	<li><a href="callforpapers">CFP</a></li>
 				</ul>
 				</li>
-				
-                                <li><a href="programa">Programa</a></li>
 				
 				<li class="dropdown">
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Patrocínio <span class="fa fa-angle-down"></span></a>

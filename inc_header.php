@@ -84,6 +84,7 @@
 						<li><a href="patrocinio-sejaumpatrocinador">Seja um Patrocinador</a></li>
 					</ul>
 				</li>
+				<li><a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/registration">Inscreva-se</a></li>
                                 <!-- <li><a href="faq">FAQ</a></li> -->
                                 <li><a href="contato">Contato</a></li>
                             </ul>

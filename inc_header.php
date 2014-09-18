@@ -73,7 +73,7 @@
 					<li><a href="soujava">Sobre o SouJava</a></li>
 					<li><a href="programa">Programa</a></li>
 					<li><a href="local">Local</a></li>
-                                	<li><a href="callforpapers">CFP</a></li>
+                                	<li><a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/cfp">CFP</a></li>
 				</ul>
 				</li>
 				

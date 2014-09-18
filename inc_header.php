@@ -65,22 +65,21 @@
                         <div class="collapse navbar-collapse adjust_header" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right adjust_header">
                                 <li><a href="index">Início</a></li>
-                                <li><a href="informacoes">Informações</a></li>
                                 <li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Informações<span class="fa fa-angle-down"></span></a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href="sobre">Sobre o evento</a></li>
-						<li><a href="soujava">SouJava</a></li>
-					</ul>
+				<a class="dropdown-toggle" data-toggle="dropdown" href="#">Informações<span class="fa fa-angle-down"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="sobre">Sobre o evento</a></li>
+					<li><a href="soujava">SouJava</a></li>
+				</ul>
 				</li>
                                 <li><a href="programa">Programa</a></li>
-								<li class="dropdown">
-									<a class="dropdown-toggle" data-toggle="dropdown" href="#">Patrocínio <span class="fa fa-angle-down"></span></a>
-									<ul class="dropdown-menu" role="menu">
-										<li><a href="patrocinio-patrocinadores">Patrocinadores</a></li>
-										<li><a href="patrocinio-sejaumpatrocinador">Seja um Patrocinador</a></li>
-									</ul>
-								</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Patrocínio <span class="fa fa-angle-down"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="patrocinio-patrocinadores">Patrocinadores</a></li>
+						<li><a href="patrocinio-sejaumpatrocinador">Seja um Patrocinador</a></li>
+					</ul>
+				</li>
                                 <li><a href="local">Local</a></li>
                                 <li><a href="callforpapers">CFP</a></li>
                                 <!-- <li><a href="faq">FAQ</a></li> -->

@@ -4,10 +4,9 @@
                 <div class="container">    
                     <!-- Social Media -->
                     <div class="social">
-                        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                        <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://pt-br.facebook.com/soujava" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/soujava" class="twitter"><i class="fa fa-twitter"></i></a>
+                        <a href="https://plus.google.com/u/0/102674160374374284719/" class="google-plus"><i class="fa fa-google-plus"></i></a>
                     </div>
                     <!-- Copy right -->
                     <div class="copy-right">

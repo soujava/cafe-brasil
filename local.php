@@ -10,7 +10,7 @@
 				<div class="inner-page-banner padd parallax-banner contact">
 					<div class="container">
 						<!-- Heading -->
-						<h3>Local</h3>
+						<h3>Data e Local</h3>
 						<hr />
 
 						<!-- Map -->

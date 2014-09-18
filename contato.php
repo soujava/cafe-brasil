@@ -19,7 +19,7 @@
 									<!-- Form -->
 									<form class="form-horizontal" role="form">
 										<div class="form-group">
-											<label for="name" class="col-lg-2 control-label">Name</label>
+											<label for="name" class="col-lg-2 control-label">Nome</label>
 											<div class="col-lg-10">
 												<input type="text" class="form-control" id="name" placeholder="Nome">
 											</div>
@@ -31,7 +31,7 @@
 											</div>
 										</div>
 										<div class="form-group">
-											<label class="control-label col-lg-2" for="message">Message</label>
+											<label class="control-label col-lg-2" for="message">Mensagem</label>
 											<div class="col-lg-10">
 												<textarea class="form-control" id="message" rows="5" placeholder="Mensagem"></textarea>
 											</div>

@@ -325,7 +325,7 @@
 							<!-- Service Item -->
 							<div class="service-item animated">
 								<!-- Service Icon -->
-								<a href="http://eventos.soujava.org.br">
+								<a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/cfp">
 									<i class="fa fa-code br-lblue"></i>
 								</a>
 								<!-- Service Title -->

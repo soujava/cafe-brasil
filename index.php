@@ -325,7 +325,7 @@
 							<!-- Service Item -->
 							<div class="service-item animated">
 								<!-- Service Icon -->
-								<a href="http://soujava-eventos.jelasticlw.com.br">
+								<a href="http://eventos.soujava.org.br">
 									<i class="fa fa-code br-lblue"></i>
 								</a>
 								<!-- Service Title -->

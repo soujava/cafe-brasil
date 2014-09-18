@@ -21,7 +21,7 @@
 										<div class="form-group">
 											<label for="name" class="col-lg-2 control-label">Name</label>
 											<div class="col-lg-10">
-												<input type="text" class="form-control" id="name" placeholder="Name">
+												<input type="text" class="form-control" id="name" placeholder="Nome">
 											</div>
 										</div>
 										<div class="form-group">
@@ -33,13 +33,13 @@
 										<div class="form-group">
 											<label class="control-label col-lg-2" for="message">Message</label>
 											<div class="col-lg-10">
-												<textarea class="form-control" id="message" rows="5" placeholder="Message"></textarea>
+												<textarea class="form-control" id="message" rows="5" placeholder="Mensagem"></textarea>
 											</div>
 										</div>
 										<div class="form-group">
 											<div class="col-lg-offset-2 col-lg-10">
-												<button type="submit" class="btn btn-info">Send</button> &nbsp;
-												<button type="reset" class="btn btn-default">Reset</button>
+												<button type="submit" class="btn btn-info">Enviar</button> &nbsp;
+												<button type="reset" class="btn btn-default">Limpar</button>
 											</div>
 										</div>
 									</form>

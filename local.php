@@ -21,7 +21,8 @@
 						<!-- Contact Item -->
 						<div class="contact-item">
 							<!-- Paragraph -->
-							<p><i class="fa fa-map-marker c-icon"></i>Telefônica, Rua Martiniano de Carvalho, 851 - São Paulo - SP</p>
+							<p><i class="fa fa-map-marker c-icon"></i>Dias: 27, 28 e 29 de novembro de 2014</p>
+							<p><i class="fa fa-map-marker c-icon"></i>Espaço Telefônica, Rua Martiniano de Carvalho, 851 - São Paulo - SP</p>
 						</div>
 					</div>
 				</div>

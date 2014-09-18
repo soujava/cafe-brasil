@@ -258,7 +258,7 @@
 									<!-- Title / Heading -->
 									<h4>Participe do SouJava</h4>
 									<!-- Paragraph -->
-									<p>Faça parte de um dos maiores grupos de usuários do mundo!.</p>
+									<p>Faça parte de um dos maiores grupos de usuários do mundo!</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">

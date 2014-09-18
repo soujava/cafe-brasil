@@ -341,7 +341,9 @@
 							<!-- Service Item -->
 							<div class="service-item animated">
 								<!-- Service Icon -->
-								<i class="fa fa-bolt br-green"></i>
+								<a href="local">
+									<i class="fa fa-bolt br-green"></i>
+								</a>
 								<!-- Service Title -->
 								<h4>Data e Local</h4>
 								<!-- Service Details -->

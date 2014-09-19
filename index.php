@@ -267,7 +267,6 @@
 									<p>Faça parte de um dos maiores grupos de usuários do mundo!</p>
 								</div>
 							</div>
-							<br>
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
@@ -279,7 +278,6 @@
 									<p>O Café Brasil é uma oportunidade única para encontrar desenvolvedores Java, e discutir as novas tecnologias.</p>
 								</div>
 							</div>
-							<br>
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
@@ -291,7 +289,6 @@
 									<p>A tecnologia Java permite voce desenvolver para qualquer plataforma. Venha refinar seus conhecimentos!</p>
 								</div>
 							</div>
-							<br>
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">

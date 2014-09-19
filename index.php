@@ -254,7 +254,11 @@
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->
-									<a href="#"><i class="fa fa-credit-card"></i></a>
+									<a href="#">
+									<figure>
+ 										<img src="img/logo_soujava_pequeno.png"/>
+									</figure>
+									</a>
 									<!-- Title / Heading -->
 									<h4>Participe do SouJava</h4>
 									<!-- Paragraph -->

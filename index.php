@@ -267,35 +267,38 @@
 									<p>Faça parte de um dos maiores grupos de usuários do mundo!</p>
 								</div>
 							</div>
+							<br>
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->
 									<a href="#"><i class="fa fa-sitemap"></i></a>
 									<!-- Title / Heading -->
-									<h4>Networking</h4><br>
+									<h4>Networking</h4>
 									<!-- Paragraph -->
 									<p>O Café Brasil é uma oportunidade única para encontrar desenvolvedores Java, e discutir as novas tecnologias.</p>
 								</div>
 							</div>
+							<br>
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->
 									<a href="#"><i class="fa fa-unlock-alt"></i></a>
 									<!-- Title / Heading -->
-									<h4>Liberdade</h4><br>
+									<h4>Liberdade</h4>
 									<!-- Paragraph -->
 									<p>A tecnologia Java permite voce desenvolver para qualquer plataforma. Venha refinar seus conhecimentos!</p>
 								</div>
 							</div>
+							<br>
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->
 									<a href="#"><i class="fa fa-warning"></i></a>
 									<!-- Title / Heading -->
-									<h4>Participe</h4><br>
+									<h4>Participe</h4>
 									<!-- Paragraph -->
 									<p>Submeta a sua palestra, ou venha participar das atividades interativas do Cafe Brasil!</p>
 								</div>

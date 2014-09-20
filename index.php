@@ -256,7 +256,7 @@
 									<!-- Icon Link -->
 									<a href="#">
 	  									<i class="fa">
-	  									<div class="logo_soujava_conteudo"/>
+	  									<img src="img/favicon_soujava_pequeno.png"/>
  										</i>
 									</a>
 									<!-- Title / Heading -->

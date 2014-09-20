@@ -88,8 +88,7 @@
                                 <!-- <li><a href="faq">FAQ</a></li> -->
                                 <li><a href="contato">Contato</a></li>
                             </ul>
-                            <div><a href="http://www.soujava.org.br" target="_blank"><img src="img/menu_soujava.png"/></a></div>
-                        </div><!-- /.navbar-collapse -->
+                            <a href="http://www.soujava.org.br" target="_blank"><img src="img/menu_soujava.png"/></a>                        </div><!-- /.navbar-collapse -->
                     </div>
                 </nav>
             </div>

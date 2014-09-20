@@ -255,11 +255,8 @@
 								<div class="inner-service-item">
 									<!-- Icon Link -->
 									<a href="#">
-									<figure>
- 										<i class="fa">
- 										<img src="img/favicon_soujava_pequeno.png"/>
+ 										<i class="fa logo_soujava_conteudo">
  										</i>
-									</figure>
 									</a>
 									<!-- Title / Heading -->
 									<h4>Participe do SouJava</h4>

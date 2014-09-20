@@ -87,6 +87,7 @@
 				<li><a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/registration">Inscreva-se</a></li>
                                 <!-- <li><a href="faq">FAQ</a></li> -->
                                 <li><a href="contato">Contato</a></li>
+                                <li><a href="http://www.soujava.com.br"><img src="img/menu_soujava.png"/></a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
                     </div>

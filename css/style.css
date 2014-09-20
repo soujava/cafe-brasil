@@ -4650,5 +4650,5 @@ div.ppt {
 
 /** Logotipo conteúdo página principal **/
 .logo_soujava_conteudo{
-	background: url('../img/favicon_soujava_pequeno.png');
+	background-image: url('../img/favicon_soujava_pequeno.png');
 }

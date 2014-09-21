@@ -10,7 +10,7 @@
 				<div class="inner-page-banner padd parallax-banner">
 					<div class="container">
 						<!-- Heading -->
-						<h3>Patrocínio</h3>
+						<h3>Programa</h3>
 						<hr />
 						<!-- Paragraph -->
 						<p>Programação a Ser Definida.</p>

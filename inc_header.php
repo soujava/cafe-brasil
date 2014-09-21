@@ -80,8 +80,8 @@
 				<li class="dropdown">
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Patrocínio <span class="fa fa-angle-down"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="patrocinio-patrocinadores">Patrocinadores</a></li>
-						<li><a href="patrocinio-sejaumpatrocinador">Seja um Patrocinador</a></li>
+						<li><a href="patrocinio">Patrocinadores</a></li>
+						<li><a href="patrocinio">Seja um Patrocinador</a></li>
 					</ul>
 				</li>
 				<li><a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/registration">Inscreva-se</a></li>

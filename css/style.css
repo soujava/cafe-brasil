@@ -454,7 +454,7 @@ hr{
 
 .header .navbar-default .navbar-nav > li a{
 	font-size: 12px;
-	left: 20px;
+	left: 30px;
 	line-height: 25px;
 	letter-spacing: 0.025em;
 	padding: 12px 20px;
@@ -1026,11 +1026,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f3f3', end
 .container .heading.shadow p{
 	text-shadow: 1px 1px 0px #555;
 	color: #efefef;
-}
-
-.adjust_header{
-    left:350px;
-    font-size: 12px;
 }
 
 

@@ -62,7 +62,7 @@
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse adjust_header" style="border:2px solid white;"
+                        <div class="collapse navbar-collapse adjust_header" style="left:50; border:2px solid white;"
 id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right adjust_header">
                                 <li><a href="index">Início</a></li>

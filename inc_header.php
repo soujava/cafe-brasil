@@ -1,9 +1,9 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 		
-        <title>CafÃ© Brasil</title>
+        <title>Café Brasil</title>
 		
         <!-- Description, Keywords and Author -->
         <meta name="description" content="Evento" >
@@ -62,12 +62,13 @@
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse adjust_header" id="bs-example-navbar-collapse-1">
+                        <div class="collapse navbar-collapse adjust_header" style="border:2px solid white;"
+id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right adjust_header">
-                                <li><a href="index">InÃ­cio</a></li>
+                                <li><a href="index">Início</a></li>
                                 
                                 <li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#">InformaÃ§Ãµes<span class="fa fa-angle-down"></span></a>
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Informações<span class="fa fa-angle-down"></span></a>
 					<ul class="dropdown-menu" role="menu">
 					<li><a href="sobre">Sobre o evento</a></li>
 					<li><a href="soujava">Sobre o SouJava</a></li>
@@ -78,7 +79,7 @@
 				</li>
 				
 				<li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#">PatrocÃ­nio <span class="fa fa-angle-down"></span></a>
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Patrocínio <span class="fa fa-angle-down"></span></a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="patrocinio">Patrocinadores</a></li>
 						<li><a href="patrocinio">Seja um Patrocinador</a></li>

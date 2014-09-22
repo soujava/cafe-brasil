@@ -94,7 +94,8 @@
 	                            </ul>
 	                        </div><!-- /.navbar-collapse -->
 	                </td>        
-	                </tr>        
+	                </tr>
+	                </table>
                     </div>
                 </nav>
             </div>

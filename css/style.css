@@ -1028,7 +1028,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f3f3', end
 }
 
 .adjust_header{
-    left:-20px;
+    left:100px;
     font-size: 12px;
 }
 

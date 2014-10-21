@@ -560,14 +560,14 @@ hr{
 }
 
 .banner .slide-one.heading{
-	font-size: 70px;
+	font-size: 40px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-shadow: 1px 1px 0px #636363;
 	letter-spacing: 0.01em;
 }
 
 .banner .slide-one.paragraph{
-	line-height: 30px;
+	line-height: 20px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-shadow: 1px 1px 0px #636363;
 }

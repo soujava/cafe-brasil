@@ -573,7 +573,7 @@ hr{
 }
 
 .banner .tp-caption a.btn{
-	font-size: 12px;
+	font-size: 10px;
 	color: #fff;
 	box-shadow: 0 1px 0 0 rgba(255,255,255,0.2) inset,0 2px 3px rgba(0,0,0,0.3);
 	border-radius: 5px;
@@ -4187,7 +4187,7 @@ div.ppt {
 	
 	.banner .tp-caption a.btn{
 		padding: 4px 10px;
-		font-size: 12px;
+		font-size: 10px;
 		font-weight: normal;
 	}
 	

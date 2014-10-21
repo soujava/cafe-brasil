@@ -85,7 +85,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
-								data-y="330"
+								data-y="430"
 								data-speed="1500"
 								data-start="4800"
 								data-easing="Power4.easeOut"
@@ -95,7 +95,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
-								data-y="390"
+								data-y="490"
 								data-speed="1500"
 								data-start="5300"
 								data-easing="Power4.easeOut"

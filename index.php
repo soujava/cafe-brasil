@@ -65,7 +65,7 @@
 							
 							<div class="tp-caption lfl largeblackbg slide-two heading"
 								data-x="620"
-								data-y="160"
+								data-y="390"
 								data-speed="1500"
 								data-start="3800"
 								data-easing="Power4.easeOut"
@@ -75,7 +75,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
-								data-y="240"
+								data-y="470"
 								data-speed="1500"
 								data-start="4300"
 								data-easing="Power4.easeOut"
@@ -85,7 +85,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
-								data-y="300"
+								data-y="330"
 								data-speed="1500"
 								data-start="4800"
 								data-easing="Power4.easeOut"
@@ -95,7 +95,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
-								data-y="360"
+								data-y="390"
 								data-speed="1500"
 								data-start="5300"
 								data-easing="Power4.easeOut"

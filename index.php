@@ -24,7 +24,7 @@
 							
 							<div class="tp-caption lfl largeblackbg slide-two heading"
 								data-x="605"
-								data-y="160"
+								data-y="162"
 								data-speed="1500"
 								data-start="1800"
 								data-easing="Power4.easeOut"

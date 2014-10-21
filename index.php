@@ -30,7 +30,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">TRÊS DIAS DE EVENTO
+								data-captionhidden="off">DOIS DIAS DE EVENTO PARA PROFISSIONAIS
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
@@ -50,7 +50,48 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> 27, 28 e 29 de novembro
+								data-captionhidden="off"><i class="fa fa-check"></i> 28 e 29 de novembro
+							</div>
+							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
+								data-x="620"
+								data-y="360"
+								data-speed="1500"
+								data-start="3500"
+								data-easing="Power4.easeOut"
+								data-endspeed="300"
+								data-endeasing="Linear.easeNone"
+								data-captionhidden="off"><i class="fa fa-check"></i> Em São Paulo
+							</div>
+							
+							<div class="tp-caption lfl largeblackbg slide-two heading"
+								data-x="620"
+								data-y="160"
+								data-speed="1500"
+								data-start="1800"
+								data-easing="Power4.easeOut"
+								data-endspeed="300"
+								data-endeasing="Linear.easeNone"
+								data-captionhidden="off">UM DIA DE EVENTO PARA ESTUDANTES
+							</div>
+							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
+								data-x="620"
+								data-y="240"
+								data-speed="1500"
+								data-start="2500"
+								data-easing="Power4.easeOut"
+								data-endspeed="300"
+								data-endeasing="Linear.easeNone"
+								data-captionhidden="off"><i class="fa fa-check"></i> Nove macro temas repletas de interatividade e tecnologia Java
+							</div>
+							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
+								data-x="620"
+								data-y="300"
+								data-speed="1500"
+								data-start="3000"
+								data-easing="Power4.easeOut"
+								data-endspeed="300"
+								data-endeasing="Linear.easeNone"
+								data-captionhidden="off"><i class="fa fa-check"></i> 27 de novembro
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="620"
@@ -90,7 +131,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">NOVE TRILHAS
+								data-captionhidden="off">NOVE MACRO TEMAS
 							</div>
 							<!-- LAYERS NR. 4.1 // Text with Icon -->
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"

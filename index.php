@@ -23,7 +23,7 @@
 							<!-- LAYERS NR. 4 // Slide Heading -->
 							
 							<div class="tp-caption lfl largeblackbg slide-two heading"
-								data-x="620"
+								data-x="605"
 								data-y="160"
 								data-speed="1500"
 								data-start="1800"
@@ -33,8 +33,8 @@
 								data-captionhidden="off">DOIS DIAS DE EVENTO PARA PROFISSIONAIS
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="620"
-								data-y="200"
+								data-x="605"
+								data-y="205"
 								data-speed="1500"
 								data-start="2500"
 								data-easing="Power4.easeOut"
@@ -43,8 +43,8 @@
 								data-captionhidden="off"><i class="fa fa-check"></i> Nove macro temas repletas de interatividade e tecnologia Java
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="620"
-								data-y="240"
+								data-x="605"
+								data-y="245"
 								data-speed="1500"
 								data-start="3000"
 								data-easing="Power4.easeOut"
@@ -53,8 +53,8 @@
 								data-captionhidden="off"><i class="fa fa-check"></i> 28 e 29 de novembro
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="620"
-								data-y="280"
+								data-x="605"
+								data-y="285"
 								data-speed="1500"
 								data-start="3500"
 								data-easing="Power4.easeOut"
@@ -64,8 +64,8 @@
 							</div>
 							
 							<div class="tp-caption lfl largeblackbg slide-two heading"
-								data-x="620"
-								data-y="330"								
+								data-x="605"
+								data-y="335"								
 								data-speed="1500"
 								data-start="3800"
 								data-easing="Power4.easeOut"
@@ -74,8 +74,8 @@
 								data-captionhidden="off">UM DIA DE EVENTO PARA ESTUDANTES
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="620"
-								data-y="370"
+								data-x="605"
+								data-y="375"
 								data-speed="1500"
 								data-start="4300"
 								data-easing="Power4.easeOut"
@@ -84,8 +84,8 @@
 								data-captionhidden="off"><i class="fa fa-check"></i> Nove macro temas repletas de interatividade e tecnologia Java
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="620"
-								data-y="410"
+								data-x="605"
+								data-y="415"
 								data-speed="1500"
 								data-start="4800"
 								data-easing="Power4.easeOut"
@@ -94,8 +94,8 @@
 								data-captionhidden="off"><i class="fa fa-check"></i> 27 de novembro
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="620"
-								data-y="450"
+								data-x="605"
+								data-y="455"
 								data-speed="1500"
 								data-start="5300"
 								data-easing="Power4.easeOut"

@@ -65,7 +65,7 @@
 							
 							<div class="tp-caption lfl largeblackbg slide-two heading"
 								data-x="605"
-								data-y="335"								
+								data-y="333"								
 								data-speed="1500"
 								data-start="3800"
 								data-easing="Power4.easeOut"

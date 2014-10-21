@@ -580,8 +580,8 @@ hr{
 }
 
 .banner .slide-two.heading{
-	font-size: 60px;
-	line-height: 70px;
+	font-size: 40px;
+	line-height: 50px;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-shadow: 1px 1px 0px #000;
@@ -598,12 +598,12 @@ hr{
 .banner .slide-two.slide-text i{
 	display: inline-block;
 	margin-right: 5px;
-	font-size: 13px;
+	font-size: 10px;
 }
 
 .banner .slide-three.heading{
-	font-size: 60px;
-	line-height: 70px;
+	font-size: 40px;
+	line-height: 50px;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-shadow: 1px 1px 0px #000;

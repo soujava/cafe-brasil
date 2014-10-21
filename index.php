@@ -34,7 +34,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
-								data-y="208"
+								data-y="207"
 								data-speed="1500"
 								data-start="2500"
 								data-easing="Power4.easeOut"
@@ -75,7 +75,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
-								data-y="378"
+								data-y="377"
 								data-speed="1500"
 								data-start="4300"
 								data-easing="Power4.easeOut"

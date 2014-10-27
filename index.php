@@ -283,7 +283,7 @@
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->
-									<a href="#">
+									<a href="http://www.soujava.org.br">
 	  									<i class="fa">
 	  									<img src="img/favicon_soujava_pequeno.png"/>
  										</i>
@@ -297,8 +297,7 @@
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
-									<!-- Icon Link -->
-									<a href="#"><i class="fa fa-sitemap"></i></a>
+									<!-- Icon Link -->									
 									<!-- Title / Heading -->
 									<h4>Networking</h4>
 									<!-- Paragraph -->
@@ -308,8 +307,7 @@
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
-									<!-- Icon Link -->
-									<a href="#"><i class="fa fa-unlock-alt"></i></a>
+									<!-- Icon Link -->									
 									<!-- Title / Heading -->
 									<h4>Liberdade</h4>
 									<!-- Paragraph -->

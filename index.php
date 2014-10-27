@@ -131,7 +131,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">NOVE MACRO TEMAS
+								data-captionhidden="off">MACRO TEMAS
 							</div>
 							<!-- LAYERS NR. 4.1 // Text with Icon -->
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
@@ -192,18 +192,6 @@
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
 								data-captionhidden="off"><i class="fa fa-check"></i> Spring
-							</div>
-							<!-- LAYERS NR. 4.6 // Text with Icon -->
-							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="left"
-								data-hoffset="80"
-								data-y="450"
-								data-speed="1500"
-								data-start="4500"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> SOA
 							</div>
 							<!-- LAYERS NR. 4.7 // Text with Icon -->
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"

@@ -348,7 +348,7 @@
 								<!-- Service Details -->
 								<div class="service-details">
 									<!-- Paragraph -->
-									<p>O SOUJava espera reunir 800 participantes em três dias de evento</p>
+									<p>Solicite uma proposta e participe deste grande evento</p>
 								</div>
 							</div>
 						</div>
@@ -360,11 +360,11 @@
 									<i class="fa fa-code br-lblue"></i>
 								</a>
 								<!-- Service Title -->
-								<h4>Submeta a sua Palestra</h4>
+								<h4>Inscreva-se</h4>
 								<!-- Service Details -->
 								<div class="service-details">
 									<!-- Paragraph -->
-									<p>Submissão de Palestras para o Café Brasil 2014 São Paulo</p>
+									<p>Aproveite a inscrição promocional com 50% de desconto</p>
 								</div>
 							</div>
 						</div>

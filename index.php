@@ -81,7 +81,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i>Um evento gratuito ideal para quem está iniciando a carreira de desenvolvedor
+								data-captionhidden="off"><i class="fa fa-check"></i>Um evento gratuito dedicado a jovens do ensino médio
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"

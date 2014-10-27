@@ -40,7 +40,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> Nove macro temas repletas de interatividade e tecnologia Java
+								data-captionhidden="off"><i class="fa fa-check"></i>Java, Java EE, BigData, Cloud, Internet das Coisas e muito mais									
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
@@ -71,7 +71,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">UM DIA DE EVENTO PARA ESTUDANTES
+								data-captionhidden="off">UM DIA DE EVENTO PARA JOVENS
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
@@ -81,7 +81,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> Nove macro temas repletas de interatividade e tecnologia Java
+								data-captionhidden="off"><i class="fa fa-check"></i>Um evento gratuito ideal para quem está iniciando a carreira de desenvolvedor
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"

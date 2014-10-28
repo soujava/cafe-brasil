@@ -299,7 +299,7 @@
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->	
-									<i class="fa fa-sitemap"></i>									
+									<a href="#"><i class="fa fa-sitemap"></i></a>									
 									<!-- Title / Heading -->
 									<h4>Networking</h4>
 									<!-- Paragraph -->
@@ -310,7 +310,7 @@
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->		
-									<i class="fa fa-unlock-alt"></i>									
+									<a href="#"><i class="fa fa-unlock-alt"></i></a>									
 									<!-- Title / Heading -->
 									<h4>Liberdade</h4>
 									<!-- Paragraph -->

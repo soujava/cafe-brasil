@@ -298,7 +298,8 @@
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
-									<!-- Icon Link -->									
+									<!-- Icon Link -->	
+									<i class="fa fa-sitemap"></i>									
 									<!-- Title / Heading -->
 									<h4>Networking</h4>
 									<!-- Paragraph -->
@@ -308,7 +309,8 @@
 							<div class="col-md-3 col-sm-6">
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
-									<!-- Icon Link -->									
+									<!-- Icon Link -->		
+									<i class="fa fa-unlock-alt"></i>									
 									<!-- Title / Heading -->
 									<h4>Liberdade</h4>
 									<!-- Paragraph -->

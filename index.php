@@ -185,7 +185,7 @@
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="left"
 								data-hoffset="280"
-								data-y="400"
+								data-y="350"
 								data-speed="1500"
 								data-start="4200"
 								data-easing="Power4.easeOut"

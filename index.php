@@ -184,7 +184,7 @@
 							<!-- LAYERS NR. 4.5 // Text with Icon -->
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="left"
-								data-hoffset="80"
+								data-hoffset="280"
 								data-y="400"
 								data-speed="1500"
 								data-start="4200"

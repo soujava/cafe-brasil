@@ -325,7 +325,7 @@
 									<!-- Title / Heading -->
 									<h4>Participe</h4>
 									<!-- Paragraph -->
-									<p>Submeta a sua palestra, ou venha participar das atividades interativas do Cafe Brasil!</p>
+									<p>Submeta a sua palestra, ou venha participar das atividades interativas do Café Brasil!</p>
 								</div>
 							</div>
 						</div>

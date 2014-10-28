@@ -342,7 +342,9 @@
 							<!-- Service Item -->
 							<div class="service-item animated">
 								<!-- Service Icon -->
+								<a href="mailto:karina@soujava.org.br">
 								<i class="fa fa-refresh br-red"></i>
+								</a>
 								<!-- Service Title -->
 								<h4>Patrocine o Evento</h4>
 								<!-- Service Details -->

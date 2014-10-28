@@ -321,7 +321,7 @@
 								<!-- Inner Service Item -->
 								<div class="inner-service-item">
 									<!-- Icon Link -->
-									<a href="#"><i class="fa fa-warning"></i></a>
+									<a href="#" onclick="return false"><i class="fa fa-warning"></i></a>
 									<!-- Title / Heading -->
 									<h4>Participe</h4>
 									<!-- Paragraph -->

@@ -181,18 +181,7 @@
 								data-endeasing="Linear.easeNone"
 								data-captionhidden="off"><i class="fa fa-check"></i> Java EE
 							</div>
-							<!-- LAYERS NR. 4.5 // Text with Icon -->
-							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="left"
-								data-hoffset="280"
-								data-y="350"
-								data-speed="1500"
-								data-start="4200"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> Spring
-							</div>
+							
 							<!-- LAYERS NR. 4.7 // Text with Icon -->
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="left"
@@ -228,6 +217,18 @@
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
 								data-captionhidden="off"><i class="fa fa-check"></i> Cloud
+							</div>
+							<!-- LAYERS NR. 4.5 // Text with Icon -->
+							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
+								data-x="left"
+								data-hoffset="280"
+								data-y="350"
+								data-speed="1500"
+								data-start="5700"
+								data-easing="Power4.easeOut"
+								data-endspeed="300"
+								data-endeasing="Linear.easeNone"
+								data-captionhidden="off"><i class="fa fa-check"></i> Spring
 							</div>
 						</li>
 						<!-- SLIDE NR. 3 -->

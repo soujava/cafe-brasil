@@ -13,7 +13,7 @@
 						<h3>Patrocínio</h3>
 						<hr />
 						<!-- Paragraph -->
-						<p>O Café Brasil 2014 espera receber mais de 800 pessoas de todo o Brasil. Se você tem interesse em divulgar a sua empresa, produtos e/ou serviços às pessoas mais envolvidas com desenvolvimento da plataforma Java, venha patrocinar o evento. Oferecemos diversos níveis de patrocínio com excelentes benefícios. Obtenha mais informações através do email eventos@soujava.org.br.</p>
+						<p>Participe deste grande evento. Se você tem interesse em divulgar a sua empresa, produtos e/ou serviços às pessoas mais envolvidas com desenvolvimento da plataforma Java, venha patrocinar o evento. Oferecemos diversos níveis de patrocínio com excelentes benefícios. Obtenha mais informações através do email eventos@soujava.org.br.</p>
 					</div>
 				</div>
 				

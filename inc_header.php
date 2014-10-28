@@ -72,8 +72,7 @@
 					<li><a href="sobre">Sobre o evento</a></li>
 					<li><a href="soujava">Sobre o SouJava</a></li>
 					<li><a href="programa">Programa</a></li>
-					<li><a href="local">Data e Local</a></li>
-                                	<li><a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/cfp">CFP</a></li>
+					<li><a href="local">Data e Local</a></li>                                	
 				</ul>
 				</li>
 				

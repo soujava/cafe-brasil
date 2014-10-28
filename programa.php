@@ -1,6 +1,5 @@
 <?php include  "inc_header.php"; ?>
 
-
 			<!-- Inner Page Content Start -->
 			
 			<div class="inner-page">
@@ -13,11 +12,11 @@
 						<h3>Programa</h3>
 						<hr />
 						<!-- Paragraph -->
-						<p>Programação a Ser Definida.</p>
+						<p>Programação a ser definida.</p>
+						<p>Enquanto isso faça a sua inscrição com 50% de desconto.</p>
 					</div>
 				</div>
 
 			</div>
-			
 
 <?php include  "inc_footer.php"; ?>

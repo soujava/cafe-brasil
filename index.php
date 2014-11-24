@@ -30,7 +30,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">DOIS DIAS DE EVENTO PARA PROFISSIONAIS
+								data-captionhidden="off">3 DIAS DE EVENTO PARA PROFISSIONAIS
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
@@ -50,7 +50,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> 28 e 29 de novembro
+								data-captionhidden="off"><i class="fa fa-check"></i> 
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
@@ -61,48 +61,7 @@
 								data-endspeed="300"
 								data-endeasing="Linear.easeNone"
 								data-captionhidden="off"><i class="fa fa-check"></i> Em São Paulo
-							</div>
-							
-							<div class="tp-caption lfl largeblackbg slide-two heading"
-								data-x="605"
-								data-y="333"								
-								data-speed="1500"
-								data-start="3800"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off">UM DIA DE EVENTO PARA JOVENS
-							</div>
-							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="605"
-								data-y="377"
-								data-speed="1500"
-								data-start="4300"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i>Um evento gratuito dedicado a jovens do ensino médio
-							</div>
-							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="605"
-								data-y="415"
-								data-speed="1500"
-								data-start="4800"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> 27 de novembro
-							</div>
-							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="605"
-								data-y="455"
-								data-speed="1500"
-								data-start="5300"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> Em São Paulo
-							</div>
+							</div>							
 						</li>
 						<!-- SLIDE NR. 2 -->
 						<li data-transition="slidedown" data-slotamount="11" data-masterspeed="700" >

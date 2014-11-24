@@ -34,7 +34,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
-								data-y="190"
+								data-y="195"
 								data-speed="1500"
 								data-start="2500"
 								data-easing="Power4.easeOut"

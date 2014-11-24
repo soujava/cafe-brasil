@@ -42,16 +42,7 @@
 								data-endeasing="Linear.easeNone"
 								data-captionhidden="off"><i class="fa fa-check"></i>Java, Java EE, BigData, Cloud, Internet das Coisas e muito mais									
 							</div>
-							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
-								data-x="605"
-								data-y="245"
-								data-speed="1500"
-								data-start="3000"
-								data-easing="Power4.easeOut"
-								data-endspeed="300"
-								data-endeasing="Linear.easeNone"
-								data-captionhidden="off"><i class="fa fa-check"></i> 
-							</div>
+							
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
 								data-y="285"

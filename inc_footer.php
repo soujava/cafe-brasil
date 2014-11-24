@@ -10,7 +10,7 @@
                     </div>
                     <!-- Copy right -->
                     <div class="copy-right">
-                        <p>&copy; Copyright 2014 <a href="#">Café Brasil 2014</a></p>
+                        <p>&copy; Copyright 2014 <a href="#">Café Brasil 2015</a></p>
                     </div>
                 </div>
             </div>

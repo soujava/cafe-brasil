@@ -34,7 +34,7 @@
 							</div>
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
-								data-y="207"
+								data-y="190"
 								data-speed="1500"
 								data-start="2500"
 								data-easing="Power4.easeOut"
@@ -45,7 +45,7 @@
 							
 							<div class="tp-caption sfb medium_bg_red slide-two slide-text"
 								data-x="605"
-								data-y="285"
+								data-y="220"
 								data-speed="1500"
 								data-start="3500"
 								data-easing="Power4.easeOut"
@@ -287,61 +287,6 @@
 			<!-- Inner Page Content End -->		
 							
 			<!-- Service Start -->
-			
-			<div class="service padd parallax-service">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-4 col-sm-4">
-							<!-- Service Item -->
-							<div class="service-item animated">
-								<!-- Service Icon -->
-								<a href="mailto:karina@soujava.org.br">
-								<i class="fa fa-refresh br-red"></i>
-								</a>
-								<!-- Service Title -->
-								<h4>Patrocine o Evento</h4>
-								<!-- Service Details -->
-								<div class="service-details">
-									<!-- Paragraph -->
-									<p>Solicite uma proposta e participe deste grande evento</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4">
-							<!-- Service Item -->
-							<div class="service-item animated">
-								<!-- Service Icon -->
-								<a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/registration">
-									<i class="fa fa-code br-lblue"></i>
-								</a>
-								<!-- Service Title -->
-								<h4>Inscreva-se</h4>
-								<!-- Service Details -->
-								<div class="service-details">
-									<!-- Paragraph -->
-									<p>Aproveite a inscrição promocional com 50% de desconto</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4">
-							<!-- Service Item -->
-							<div class="service-item animated">
-								<!-- Service Icon -->
-								<a href="local">
-									<i class="fa fa-bolt br-green"></i>
-								</a>
-								<!-- Service Title -->
-								<h4>Data e Local</h4>
-								<!-- Service Details -->
-								<div class="service-details">
-									<!-- Paragraph -->
-									<p>Mais informações sobre a data e o local do evento</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 			
 			<!-- Service End -->
 			

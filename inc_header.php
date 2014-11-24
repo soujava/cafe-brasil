@@ -68,24 +68,11 @@
                                 
                                 <li class="dropdown">
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Informações<span class="fa fa-angle-down"></span></a>
-					<ul class="dropdown-menu" role="menu">
-					<li><a href="sobre">Sobre o evento</a></li>
+					<ul class="dropdown-menu" role="menu">					
 					<li><a href="soujava">Sobre o SouJava</a></li>
-					<li><a href="programa">Programa</a></li>
-					<li><a href="local">Data e Local</a></li>                                	
 				</ul>
 				</li>
-				
-				<li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Patrocínio <span class="fa fa-angle-down"></span></a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href="patrocinio">Patrocinadores</a></li>
-						<li><a href="patrocinio">Seja um Patrocinador</a></li>
-					</ul>
-				</li>
-				<li><a href="http://eventos.soujava.org.br/evt/cafebrasil/cb2014/schedConf/registration">Inscreva-se</a></li>
-                                <!-- <li><a href="faq">FAQ</a></li> -->
-                                <li><a href="contato">Contato</a></li>
+				                <li><a href="contato">Contato</a></li>
                                 <li><a href="http://www.soujava.org.br" target="_blank"><img src="img/menu_soujava.png"/></a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
